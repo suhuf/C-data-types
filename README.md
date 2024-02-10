@@ -1,7 +1,10 @@
+
+Credits to BroCode video link:
+
+    https://www.youtube.com/watch?v=1eyf1-RU_eg
+    
+
 #include <stdio.h>
-
-
-
 
 #include <stdbool.h>
 
