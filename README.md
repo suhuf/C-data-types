@@ -48,7 +48,7 @@ int main(){
 }
 
 
-ACII Table
+ASCII Table
 
 ![image](https://github.com/suhuf/C-data-types/assets/105312929/f162bb6b-bcb3-44ee-990d-737027b9cf4d)
 
