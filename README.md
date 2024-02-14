@@ -48,7 +48,12 @@ int main(){
 }
 
 
-ASCII Table
+**ASCII Table**
 
 ![image](https://github.com/suhuf/C-data-types/assets/105312929/f162bb6b-bcb3-44ee-990d-737027b9cf4d)
+
+
+**Byte value of ASCII Characters in C**
+
+![image](https://github.com/suhuf/C-data-types/assets/105312929/7dbec37f-4bb4-458a-8dfc-0232cac9b7f0)
 
